@@ -1,2 +1,2 @@
-        print(stack.pop())
-        print(aux.pop())
+", p)
+print("q: ", q)
